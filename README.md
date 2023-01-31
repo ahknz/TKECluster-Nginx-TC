@@ -20,6 +20,9 @@ For Terraform setup, please refer to https://developer.hashicorp.com/terraform/d
 
 ## How to run
 ```
+$ export TENCENTCLOUD_SECRET_ID="my-secret-id"
+$ export TENCENTCLOUD_SECRET_KEY="my-secret-key"
+
 terraform init
 terraform plan
 terraform apply
