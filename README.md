@@ -15,7 +15,7 @@ To create Secret ID and Secret Key, please refer to https://www.tencentcloud.com
 For Terraform setup, please refer to https://developer.hashicorp.com/terraform/downloads 
 
 ## Steps 
- - TKE Cluster creation : networking, cluster, CAM roles, 
+ - TKE Cluster creation : networking, cluster, CAM roles
  - K8s Nginx creation : K8s provider, security group, resources
 
 ## How to run
