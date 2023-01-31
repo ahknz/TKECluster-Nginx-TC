@@ -1,4 +1,4 @@
-# TKECluster-Nginx-TC
+# Simple Nginx App with TKE Cluster on TC
 
 This Terraform create a Tencent Cloud TKE cluster and deploy a simple Nginx application.
 
